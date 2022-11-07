@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maikem Victorine
-- 👀 I’m interested in Machine Learning,Artificial Intelligence and Software Engineering. I enjoy writing and debugging code.as well volunteering.
+- 👀 I’m interested in Machine Learning,Artificial Intelligence and Software Engineering. I enjoy writing and debugging code.as well volunteering and youth empowerment.
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on any project that relates to edutech and medtech.
 - 📫 How to reach me : Email-maikemvictorine@gmail.com, Phone-+250781826730
